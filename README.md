@@ -1,4 +1,4 @@
-# Ruby Advanced Class Methods Lab
+gist.new# Ruby Advanced Class Methods Lab
 
 ## Learning Goals
 
